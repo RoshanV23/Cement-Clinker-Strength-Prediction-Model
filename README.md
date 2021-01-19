@@ -14,25 +14,25 @@ In the clinker, the following predominate chemicals elements are Ca, Si, Al, Fe,
 
 Now let’s have a quick info on columns, the data used in this model preparation is the made-up data so the performance of the model may suffer:
 
-# SO3 (%) may come from varying sources, raw material, fuel or alternative fuels.
+- SO3 (%) may come from varying sources, raw material, fuel or alternative fuels.
 
-# FCao (%) is the amount of unreacted free lime left after complete formation of clinker phases.
+- FCao (%) is the amount of unreacted free lime left after complete formation of clinker phases.
 
-# AS is alumina modulus.
+- AS is alumina modulus.
 
-# SM is the silica modulus
+- SM is the silica modulus
 
-# LS is lime saturation
+- LS is lime saturation
 
-# C3S, C2S, C3A and C4AF are described above.
+- C3S, C2S, C3A and C4AF are described above.
 
-# BMSO3 (%) is Ball Mill SO3 that comes from adding as required amount of gypsum needed for setting cement.
+- BMSO3 (%) is Ball Mill SO3 that comes from adding as required amount of gypsum needed for setting cement.
 
-# Blaine (m2·kg−1) is the fineness of the cement. 
+- Blaine (m2·kg−1) is the fineness of the cement. 
 
-# R45 (%) is the residue obtained after sieving cement on 45 microns sieve.
+- R45 (%) is the residue obtained after sieving cement on 45 microns sieve.
 
-# 1D (MPa) (TARGET VARIABLE) is the compressive strength of cement measured after 24 hours for mortar preparation- basically read as 1-day strength. 
+- 1D (MPa) (TARGET VARIABLE) is the compressive strength of cement measured after 24 hours for mortar preparation- basically read as 1-day strength. 
 
 Steps performed:
 (1)	EDA is done over data.
