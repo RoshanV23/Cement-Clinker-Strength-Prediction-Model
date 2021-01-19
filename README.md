@@ -1,8 +1,6 @@
 # Cement-Clinker-Strength-Prediction-Model
 In this repository an attempt is made to predict cement clinker strength with the help of linear regression model  
 
-# Cement/Clinker strength prediction model
-
 Let’s have a quick introduction about clinker and the details of the dataset used:
 
 Clinker is a nodular material produced in the kilning stage during the production of cement and is used as the binder in many cement products. The lumps or nodules of clinker are usually of diameter 3-25 mm and dark grey in color. It is produced by heating limestone and clay to the point of liquefaction at about 1400°C-1500°C in the rotary kiln. Clinker, when added with gypsum (to control the setting properties of cement and ensure compressive strength) and ground finely, produces cement. Clinker can be stored for long periods of time in a dry condition without degradation of quality, hence it is traded internationally and used by cement manufacturers when raw materials are found to be scarce or unavailable. 
